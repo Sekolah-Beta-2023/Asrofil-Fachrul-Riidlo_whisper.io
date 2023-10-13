@@ -1,6 +1,6 @@
 # Whisper.io  
 
-Simple functional web chat app and sleek UI.  
+Simple functional web chat app with intuitive UI.  
 
 ![Screenshot App](/MD-assets/ss.png)
 
