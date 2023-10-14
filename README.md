@@ -4,7 +4,7 @@ Simple functional web chat app with intuitive UI.
 
 ![Screenshot App](/MD-assets/ss.png)
 
-### Link
+### Link Deploy
 
 [main](http://asrofil-fachrul-riidlo.sanberdev.com/) | [alternative](http://34.101.112.132/)
 
