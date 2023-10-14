@@ -1,6 +1,7 @@
 import io from 'socket.io-client'
+console.log("socket io url: ", process.env.SOCKET_IO_URL)
 
-const socket = io(process.env.SOCKET_IO_URL)
+const socket = io(`${process.env.SOCKET_IO_URL}`)
 
 
 export default function({store}, inject){

@@ -86,5 +86,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+  env: {
+    SOCKET_IO_URL: process.env.SOCKET_IO_URL
+  },
 }
