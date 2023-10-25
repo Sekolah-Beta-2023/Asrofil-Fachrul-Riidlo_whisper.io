@@ -6,7 +6,15 @@ Simple functional web chat app with intuitive UI.
 
 ### Link Deploy
 
+#### GCP (IaaS)
+
 [main](http://asrofil-fachrul-riidlo.sanberdev.com/) | [alternative](http://34.101.112.132/)
+
+if above links does not work (anymore, because it is free tier usage), use below link that hosted on PaaS
+
+#### Vercel (PaaS)
+
+*soon*
 
 ### Original Repo Link  
 
@@ -20,7 +28,7 @@ Both original repo have been implemented CI/CD using github actions deployed to 
 
 ### Infrastructure
 
-Diagram of Technincal Infrastructure
+Diagram of Technincal Infrastructure (when app is previously hosted on IaaS)
 
 ![Diagram](/MD-assets/infra.jpg)
 
