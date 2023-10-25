@@ -10,11 +10,7 @@ Simple functional web chat app with intuitive UI.
 
 [main](http://asrofil-fachrul-riidlo.sanberdev.com/) | [alternative](http://34.101.112.132/)
 
-if above links does not work (anymore, because it is free tier usage), use below link that hosted on PaaS
-
-#### Vercel (PaaS)
-
-*soon*
+above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or using PaaS such as Vercel or Netlify
 
 ### Original Repo Link  
 
