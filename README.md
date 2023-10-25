@@ -10,7 +10,9 @@ Simple functional web chat app with intuitive UI.
 
 [main](http://asrofil-fachrul-riidlo.sanberdev.com/) | [alternative](http://34.101.112.132/)
 
-above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or using PaaS such as Vercel or Netlify
+above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or (last choice) using PaaS such as Vercel or Netlify.
+
+I prefer using IaaS because it can demonstrate my skill in Development-Operation (DevOps) side too.
 
 ### Original Repo Link  
 
@@ -18,7 +20,7 @@ Frontend: [whisper.io](https://github.com/asrofilfachrulr/whisper.io)
 
 Backend: [api.whisper.io](https://github.com/asrofilfachrulr/api.whisper.io)
 
-Both original repo have been implemented CI/CD using github actions deployed to GCP through docker-hub pulling.
+Both original repo have been implemented CI/CD using github actions deployed to GCP through docker-hub pulling. Visit my [gist](https://gist.github.com/asrofilfachrulr) to view operation-related files on the VM
 
 # Diagrams  
 
