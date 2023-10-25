@@ -10,7 +10,7 @@ Simple functional web chat app with intuitive UI.
 
 [main](http://asrofil-fachrul-riidlo.sanberdev.com/) | [alternative](http://34.101.112.132/)
 
-above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or (last choice) using PaaS such as Vercel or Netlify.
+above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or (last choice) using PaaS such as Vercel or Netlify. The migration process is undoubtly simple, I just need to register for new IaaS, set up the VM with basic setup like SSH and installing docker & NGINX, upload files script to the vm and update the secret key on github to target address vm. Once all set, i just need to run the script to execute docker-compose or I can directly test the CI-CD process by making test changes on the app and push it to trigger the jobs.
 
 I prefer using IaaS because it can demonstrate my skill in Development-Operation (DevOps) side too.
 
