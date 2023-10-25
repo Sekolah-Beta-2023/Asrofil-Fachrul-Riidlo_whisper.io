@@ -20,7 +20,7 @@ if above links does not work (anymore, because it is free tier usage), use below
 
 Frontend: [whisper.io](https://github.com/asrofilfachrulr/whisper.io)
 
-Backend: [api.whisper.io](https://github.com/asrofilfachrulr/whisper.io)
+Backend: [api.whisper.io](https://github.com/asrofilfachrulr/api.whisper.io)
 
 Both original repo have been implemented CI/CD using github actions deployed to GCP through docker-hub pulling.
 
