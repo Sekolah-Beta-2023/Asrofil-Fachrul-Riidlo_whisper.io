@@ -24,7 +24,11 @@ Simple functional web chat app with intuitive UI.
 
 above links will not work start from Nov 13, 2023 (end of my free tier plan). Please kindly wait because I'm considering to migrate the hosting to another IaaS that provide free tier plan or (last choice) using PaaS such as Vercel or Netlify. The migration process is undoubtly simple, I just need to register for new IaaS, set up the VM with basic setup like SSH and installing docker & NGINX, upload files script to the vm and update the secret key on github to target address vm. Once all set, i just need to run the script to execute docker-compose or I can directly test the CI-CD process by making test changes on the app and push it to trigger the jobs.
 
-I prefer using IaaS because it can demonstrate my skill in Development-Operation (DevOps) side too.
+I prefer using IaaS because it can demonstrate my skill in Development-Operation (DevOps) side too. See my gist for the scripts I'm using on ops side:
+
+- [trigger script](https://gist.github.com/asrofilfachrulr/025356b1e93366a1230833042a63ba0e)
+- [docker-compose](https://gist.github.com/asrofilfachrulr/6f328d4843fc5c6b1103b01a207d1f44)
+- [nginx conf](https://gist.github.com/asrofilfachrulr/98ed44fbac0c74a6b8f1098dfa9d9daa)
 
 ### Original Repo Link  
 
